@@ -87,3 +87,6 @@ display.init()
 
 # Esta función te devuelve qué tan largo es un texto, medido en pixeles. Útil para cosas dinámicas:
 # display.write_len(fuente, texto)
+
+# Y acá hay info sobre cosas como wifi, bus de serie, etc:
+# https://docs.micropython.org/en/latest/esp32/quickref.html
