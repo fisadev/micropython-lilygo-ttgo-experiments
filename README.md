@@ -26,4 +26,4 @@ Click en "Install or update firmware". Volver a elegir el puerto. Elegir el firm
 
 Click en Install y esperar. Después cerrar las opciones.
 
-El intérprete en la pantalla principal ahora debería estar corriendo en la plaquita. Probar en la consola alguno de los ejemplos en `./ejemplos_st7789.py`.
+El intérprete en la pantalla principal ahora debería estar corriendo en la plaquita. Probar en la consola alguno de los ejemplos de `./ejemplos/cosas_basicas.py`.
