@@ -9,6 +9,8 @@ Es la plaquita que compré en mercado libre, que dice TTGO grande en una punta:
 
 https://articulo.mercadolibre.com.ar/MLA-903603771-modulo-desarrollo-ttgo-esp32-display-1-14p-usb-c-wifi-4mb-_JM#backend=item_decorator&backend_type=function&client=bookmarks-polycard
 
+![](./reference.webp)
+
 Primero bajar este repo:
 https://github.com/russhughes/st7789_mpy
 
