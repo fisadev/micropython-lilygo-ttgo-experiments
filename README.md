@@ -32,6 +32,7 @@ El intérprete en la pantalla principal ahora debería estar corriendo en la pla
 
 # Correr y guardar scripts
 
-Desde thonny se pueden correr los scripts directamente con el botón de play. 
+Desde thonny se pueden correr los scripts directamente con el botón de play. Al abrirlo puede hacer falta volver a elegir el intérprete, y hacer un restart.
+
 Pero para que el script quede guardado y corra solo sin necesidad de la pc conectada, hay que guardarlo en la plaquita con nombre `main.py`.
 Hay tools para hacer esto por consola, tengo que investigarlas así uso vim y listo.
